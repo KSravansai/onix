@@ -2,9 +2,11 @@
 
 # Project name: Onix(online Seo provider &Tutor)
 
-# Problem Statement: SEO stands for “search engine optimization.” In simple terms, it means the process of improving your site to increase its visibility when people search for products or services related to your business in Google, Bing, and other search engines. The better visibility your pages have in search results, the more likely you are to garner attention and attract prospective and existing customers to your business.In this project i described about seo importance,providence and query helping with azure bot
+# Problem Statement: 
+SEO stands for “search engine optimization.” In simple terms, it means the process of improving your site to increase its visibility when people search for products or services related to your business in Google, Bing, and other search engines. The better visibility your pages have in search results, the more likely you are to garner attention and attract prospective and existing customers to your business.In this project i described about seo importance,providence and query helping with azure bot
 
-# Azure Skills: Azure bot service,Static Webapps
+# Azure Skills: 
+Azure bot service,Static Webapps
 
 # Webtechnologies used:
 Html,
@@ -51,6 +53,37 @@ Azure Project Link:
 ![bott5](https://user-images.githubusercontent.com/117058224/209789062-d8a4fc18-dab7-431a-a473-3a85ec73a23f.png)
 
 # Project Screenshots:
+
+## HOmepage:
+![homepage](https://user-images.githubusercontent.com/117058224/209789764-cf94dbf0-604e-4d9d-83e6-f3a448e7849e.png)
+
+## Services page:
+![services page](https://user-images.githubusercontent.com/117058224/209789821-77c37bb6-6e2d-48dd-963f-75bd31b39bc5.png)
+
+## About project:
+![about project](https://user-images.githubusercontent.com/117058224/209789869-feea842a-60b3-4b14-8241-922bc6f26c89.png)
+
+## Portfilo page:
+![portfilo](https://user-images.githubusercontent.com/117058224/209789934-e03d6190-fdab-44a6-bb28-dda98e333191.png)
+
+## Videos page:
+![videos](https://user-images.githubusercontent.com/117058224/209789980-741071b1-a446-4699-b677-aa7798b06a36.png)
+
+## Contact us page:
+![contact us page](https://user-images.githubusercontent.com/117058224/209790026-cc488422-3afd-4e56-95e8-de926cd24b8b.png)
+
+## Bot Funtionality:
+![bot1](https://user-images.githubusercontent.com/117058224/209790080-895aa046-e0f4-4fc8-8c54-a0f6a77518f9.png)
+
+![bot2](https://user-images.githubusercontent.com/117058224/209790100-d8ad182e-e00c-42ef-9751-5b9667c77d37.png)
+
+![bot3](https://user-images.githubusercontent.com/117058224/209790122-14b2cf39-a7a1-4a45-b671-dcf0f5d0f15b.png)
+
+![bot4](https://user-images.githubusercontent.com/117058224/209790146-1f67ee7a-2556-4c51-8007-34616a0e656a.png)
+
+------------------------------------------------------------------------------------------------------------------------------
+# Thank you..
+
 
 
 
