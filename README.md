@@ -15,8 +15,8 @@ Javascript,
 Jquery.
 
 # project DemoLinks:
-Github Reposistory Link:
-Azure Project Link:
+Github Reposistory Link:https://github.com/KSravansai/onix
+Azure Project Link:https://red-flower-0d59dfb10.2.azurestaticapps.net
 
 # Azure Screenshots:Azure Resources,Azure staticwebapp,Azure Bot service:
 
